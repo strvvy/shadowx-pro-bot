@@ -1,0 +1,15 @@
+{
+  "name": "shadowxbot",
+  "version": "2.0.0",
+  "description": "Professional Multi-Purpose Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "mongoose": "^8.0.3"
+  }
+}
